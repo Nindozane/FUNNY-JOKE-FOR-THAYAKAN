@@ -25,7 +25,7 @@ h1 {
 
 .line {
     height: 6px;
-    background-color: #000;
+    background-color: yellow;
     width: 70px;
     margin: 8px auto;
 }
@@ -51,5 +51,5 @@ h1 {
 
 input
 {
-    background: yellow;
+    background: green;
 }
